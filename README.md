@@ -4,8 +4,8 @@ Turn course and social videos into structured learning assets.
 
 ## Languages
 
-- [English](readme-en.md)
-- [中文](readmeCN.md)
+- [English](readme_EN.md)
+- [中文](readme_CN.md)
 
 ## Quick Start
 
